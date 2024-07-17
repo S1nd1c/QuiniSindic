@@ -1,0 +1,84 @@
+{
+    "groups": [
+        {
+            "teams": [
+                {"country": "Alemania", "code": "de"},
+                {"country": "Escocia", "code": "gb-sct"},
+                {"country": "Hungría", "code": "hu"},
+                {"country": "Suiza", "code": "ch"}
+            ],
+            "name": "A"
+        },
+        {
+            "teams": [
+                {"country": "España", "code": "es"},
+                {"country": "Croacia", "code": "hr"},
+                {"country": "Italia", "code": "it"},
+                {"country": "Albania", "code": "al"}
+            ],
+            "name": "B"
+        },
+        {
+            "teams": [
+                {"country": "Eslovenia", "code": "si"},
+                {"country": "Dinamarca", "code": "dk"},
+                {"country": "Serbia", "code": "rs"},
+                {"country": "Inglaterra", "code": "gb-eng"}
+            ],
+            "name": "C"
+        },
+        {
+            "teams": [
+                {"country": "Polonia", "code": "pl"},
+                {"country": "Países Bajos", "code": "nl"},
+                {"country": "Austria", "code": "at"},
+                {"country": "Francia", "code": "fr"}
+            ],
+            "name": "D"
+        },
+        {
+            "teams": [
+                {"country": "Bélgica", "code": "be"},
+                {"country": "Eslovaquia", "code": "sk"},
+                {"country": "Rumania", "code": "ro"},
+                {"country": "Ucrania", "code": "ua"}
+            ],
+            "name": "E"
+        },
+        {
+            "teams": [
+                {"country": "Turquía", "code": "tr"},
+                {"country": "Georgia", "code": "ge"},
+                {"country": "Portugal", "code": "pt"},
+                {"country": "República Checa", "code": "cz"}
+            ],
+            "name": "F"
+        }
+    ], 
+    "flags": {
+        "Alemania": "de",
+        "Escocia": "gb-sct",
+        "Hungría": "hu",
+        "Suiza": "ch",
+        "España": "es",
+        "Croacia": "hr",
+        "Italia": "it",
+        "Albania": "al",
+        "Eslovenia": "si",
+        "Dinamarca": "dk",
+        "Serbia": "rs",
+        "Inglaterra": "gb-eng",
+        "Polonia": "pl",
+        "Países Bajos": "nl",
+        "Austria": "at",
+        "Francia": "fr",
+        "Bélgica": "be",
+        "Eslovaquia": "sk",
+        "Rumania": "ro",
+        "Ucrania": "ua",
+        "Turquía": "tr",
+        "Georgia": "ge",
+        "Portugal": "pt",
+        "República Checa": "cz"
+    }    
+}

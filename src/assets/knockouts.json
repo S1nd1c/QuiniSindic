@@ -1,0 +1,34 @@
+{
+    "matches": [
+        {
+            "home": "España",
+            "away": "Inglaterra"
+        }
+    ],
+    "flags": {
+        "Alemania": "de",
+        "Escocia": "gb-sct",
+        "Hungría": "hu",
+        "Suiza": "ch",
+        "España": "es",
+        "Croacia": "hr",
+        "Italia": "it",
+        "Albania": "al",
+        "Eslovenia": "si",
+        "Dinamarca": "dk",
+        "Serbia": "rs",
+        "Inglaterra": "gb-eng",
+        "Polonia": "pl",
+        "Países Bajos": "nl",
+        "Austria": "at",
+        "Francia": "fr",
+        "Bélgica": "be",
+        "Eslovaquia": "sk",
+        "Rumanía": "ro",
+        "Ucrania": "ua",
+        "Turquía": "tr",
+        "Georgia": "ge",
+        "Portugal": "pt",
+        "República Checa": "cz"
+    }    
+}
